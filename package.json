@@ -1,0 +1,23 @@
+{
+  "name": "js_2068",
+  "version": "1.0.0",
+  "description": "Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelLinaStarshine/JS_2068.git"
+  },
+  "author": "Besoangel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelLinaStarshine/JS_2068/issues"
+  },
+  "homepage": "https://github.com/AngelLinaStarshine/JS_2068#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
