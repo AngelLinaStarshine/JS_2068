@@ -2,9 +2,9 @@
   "name": "js_2068",
   "version": "1.0.0",
   "description": "Project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
   "repository": {
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/AngelLinaStarshine/JS_2068#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.11",
+    "nodemon": "^1.19.0",
+    "pug": "^2.0.3"
   }
 }
